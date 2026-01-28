@@ -4,7 +4,7 @@ students =[
     {"name":'s3',"score":56},
     {"name":'s4',"score":88},
 ]
-h_score =0
+h_score=0
 topper=""
 for student in students:
     if(student["score"]>h_score):

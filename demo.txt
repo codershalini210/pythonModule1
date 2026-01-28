@@ -1,0 +1,49 @@
+PS E:\uk sw training\SDGLA3\Pyhton Modules\pythonModule1> python
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+Ctrl click to launch VS Code Native REPL
+>>> print("hi")
+hi
+>>> import math
+>>> print(math.pi)
+3.141592653589793
+>>> radius = 5  
+>>> circum = 2 * math.pi* radius  
+>>> circum
+31.41592653589793
+>>> import random
+>>> random.random()
+0.6465286446978243
+>>> random.random()
+0.7747095801222996
+>>> random.random()
+0.552458040991047
+>>> random.random()
+0.17773229850857608
+>>> random.random()
+0.6868122074408525
+>>> random.random()
+0.24109610856440722
+>>> random.random()
+0.7252543765488408
+>>> random.random()
+0.5871204770489067
+>>> random.randint(1,100)
+88
+>>> random.randint(1,100)
+45
+>>> random.randint(1,100)
+73
+>>> random.randint(1,100)
+31
+>>> random.randint(1000,9999) 
+5315
+>>> random.randint(1000,9999)
+7316
+>>> random.randint(1000,9999)
+8814
+>>> random.randint(1000,9999)
+5486
+>>> random.randint(1000,9999)
+4333
+>>>
